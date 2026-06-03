@@ -34,3 +34,19 @@ This repository is automatically updated using the **[LeetSync](https://google.c
 
 ---
 *If you find these solutions helpful, feel free to ⭐ this repository!*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sujalxx0/LeetCode-DSA-Solutions/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sujalxx0/LeetCode-DSA-Solutions/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sujalxx0/LeetCode-DSA-Solutions/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
+<!---LeetCode Topics End-->
