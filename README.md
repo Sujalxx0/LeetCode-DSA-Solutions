@@ -62,6 +62,7 @@ This repository is automatically updated using the **[LeetSync](https://google.c
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sujalxx0/LeetCode-DSA-Solutions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sujalxx0/LeetCode-DSA-Solutions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sujalxx0/LeetCode-DSA-Solutions/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Sujalxx0/LeetCode-DSA-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ This repository is automatically updated using the **[LeetSync](https://google.c
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sujalxx0/LeetCode-DSA-Solutions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sujalxx0/LeetCode-DSA-Solutions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sujalxx0/LeetCode-DSA-Solutions/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Sujalxx0/LeetCode-DSA-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ This repository is automatically updated using the **[LeetSync](https://google.c
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sujalxx0/LeetCode-DSA-Solutions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sujalxx0/LeetCode-DSA-Solutions/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sujalxx0/LeetCode-DSA-Solutions/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Sujalxx0/LeetCode-DSA-Solutions/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
